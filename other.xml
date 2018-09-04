@@ -1,0 +1,21 @@
+<application>
+  <component name="EduSettings">
+    <option name="lastTimeChecked" value="1536038131700" />
+    <option name="user">
+      <StepicUser>
+        <option name="accessToken" value="Z0YoLK3mUugjllZzOgEzwiz3ZdlgnZ" />
+        <option name="firstName" value="Changzhu" />
+        <option name="id" value="48371088" />
+        <option name="lastName" value="Zhao" />
+        <option name="refreshToken" value="34MYWuhCTD88MMIX80iyBqdavzX8zI" />
+      </StepicUser>
+    </option>
+    <option name="LAST_TIME_CHECKED" value="1536038131700" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/scoop/apps/nodejs/current/node.exe" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+</application>
