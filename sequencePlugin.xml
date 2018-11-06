@@ -1,0 +1,6 @@
+<application>
+  <component name="sequencePlugin">
+    <option name="USE_3D_VIEW" value="true" />
+    <option name="SHOW_RETURN_ARROWS" value="false" />
+  </component>
+</application>
