@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'speed-test-lib'" />
-    <option name="defaultScopeName" value="Project 'speed-test-lib'" />
+    <option name="customScope" value="Project 'Kotlin_Koans'" />
+    <option name="defaultScopeName" value="Project 'Kotlin_Koans'" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
@@ -10,7 +10,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'speed-test-lib'" />
+    <option name="SEARCH_SCOPE" value="Project 'Kotlin_Koans'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
