@@ -5,4 +5,7 @@
     <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="Menlo" />
   </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="PREVIEW" />
+  </component>
 </application>
