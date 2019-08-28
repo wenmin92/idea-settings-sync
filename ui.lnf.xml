@@ -2,6 +2,7 @@
   <component name="UISettings">
     <option name="EDITOR_TAB_LIMIT" value="36" />
     <option name="EDITOR_TAB_PLACEMENT" value="4" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="35" />
     <option name="MAX_LOOKUP_WIDTH2" value="1379" />
     <option name="SORT_BOOKMARKS" value="true" />
   </component>
