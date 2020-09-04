@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="polyfill" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.polyfill.io_v2_polyfill.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.polyfill.io_v2_polyfill.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
