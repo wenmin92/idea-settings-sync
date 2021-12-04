@@ -6,13 +6,19 @@
       <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="LIFT.RunWithArguments" is_action="true" action_type="1" position="5">
+    <group value="LIFT.Compile" is_action="true" action_type="1" position="5">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="LIFT.DebugWithArguments" is_action="true" action_type="1" position="6">
+    <group value="LIFT.RunWithArguments" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="LIFT.DebugWithArguments" is_action="true" action_type="1" position="7">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
